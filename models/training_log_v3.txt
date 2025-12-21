@@ -1,0 +1,59 @@
+=== Training Started: 2025-12-20 23:27:07.836938 ===
+
+Epoch 01/50 | Train Loss: 73.7173 | Val MAE: 40.9370 (SBP: 63.60, DBP: 18.28)
+
+--> New best model saved with Val MAE: 40.9370
+
+Epoch 02/50 | Train Loss: 17.2675 | Val MAE: 10.2184 (SBP: 13.13, DBP: 7.30)
+
+--> New best model saved with Val MAE: 10.2184
+
+Epoch 03/50 | Train Loss: 10.6001 | Val MAE: 10.3333 (SBP: 13.70, DBP: 6.97)
+
+Epoch 04/50 | Train Loss: 10.5326 | Val MAE: 10.0929 (SBP: 13.12, DBP: 7.07)
+
+--> New best model saved with Val MAE: 10.0929
+
+Epoch 05/50 | Train Loss: 10.4745 | Val MAE: 10.2018 (SBP: 13.25, DBP: 7.15)
+
+Epoch 06/50 | Train Loss: 10.4481 | Val MAE: 10.1259 (SBP: 13.08, DBP: 7.17)
+
+Epoch 07/50 | Train Loss: 10.4219 | Val MAE: 10.4593 (SBP: 13.87, DBP: 7.05)
+
+Epoch 08/50 | Train Loss: 10.4142 | Val MAE: 10.1925 (SBP: 13.07, DBP: 7.31)
+
+Epoch 09/50 | Train Loss: 10.3950 | Val MAE: 10.2496 (SBP: 13.45, DBP: 7.05)
+
+Epoch 10/50 | Train Loss: 10.3839 | Val MAE: 10.4711 (SBP: 13.81, DBP: 7.14)
+
+Epoch 11/50 | Train Loss: 10.3537 | Val MAE: 10.1245 (SBP: 13.08, DBP: 7.17)
+
+Epoch 12/50 | Train Loss: 10.3059 | Val MAE: 10.2092 (SBP: 13.28, DBP: 7.13)
+
+Epoch 13/50 | Train Loss: 10.2764 | Val MAE: 10.1480 (SBP: 12.97, DBP: 7.33)
+
+Epoch 14/50 | Train Loss: 10.2629 | Val MAE: 10.1765 (SBP: 13.01, DBP: 7.34)
+
+Epoch 15/50 | Train Loss: 10.2324 | Val MAE: 10.1658 (SBP: 13.15, DBP: 7.18)
+
+Epoch 16/50 | Train Loss: 10.1889 | Val MAE: 10.2850 (SBP: 13.37, DBP: 7.20)
+
+Epoch 17/50 | Train Loss: 10.2081 | Val MAE: 10.0950 (SBP: 13.11, DBP: 7.08)
+
+Epoch 18/50 | Train Loss: 10.1467 | Val MAE: 10.1196 (SBP: 13.09, DBP: 7.15)
+
+Epoch 19/50 | Train Loss: 10.1522 | Val MAE: 10.1997 (SBP: 13.26, DBP: 7.14)
+
+Epoch 20/50 | Train Loss: 10.1204 | Val MAE: 10.2859 (SBP: 13.37, DBP: 7.20)
+
+Epoch 21/50 | Train Loss: 10.0690 | Val MAE: 10.2704 (SBP: 13.41, DBP: 7.14)
+
+Epoch 22/50 | Train Loss: 10.0722 | Val MAE: 10.3131 (SBP: 13.53, DBP: 7.10)
+
+Epoch 23/50 | Train Loss: 10.0432 | Val MAE: 10.1708 (SBP: 13.27, DBP: 7.07)
+
+Epoch 24/50 | Train Loss: 10.0069 | Val MAE: 10.3667 (SBP: 13.60, DBP: 7.13)
+
+Epoch 25/50 | Train Loss: 9.9655 | Val MAE: 10.1169 (SBP: 13.09, DBP: 7.14)
+
+Epoch 26/50 | Train Loss: 9.9180 | Val MAE: 10.3045 (SBP: 13.53, DBP: 7.08)
