@@ -39,7 +39,7 @@
 
 ## Как запустить код
 
-### 1. Подготовка окружения и данных
+### Подготовка окружения и данных
 ```bash
 sudo apt update && sudo apt install lftp p7zip-full python3-pip libgl1 libglib2.0-0t64 python3.12-venv -y
 sudo lftp -u 'логин','пароль' -e "set sftp:auto-confirm yes; pget -n 5 sftp://45.89.225.65:2222/upload/videos.zip; quit"
@@ -49,7 +49,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install torch torchvision torchaudio opencv-python pandas numpy scipy scikit-learn tqdm mediapipe
 
-### 2. Запуск пейплайн
+### Запуск пейплайна
 # Шаг 1: Предобработка видео (извлечение сигналов в .npy)
 python3 preprocess_to_npy.py
 
