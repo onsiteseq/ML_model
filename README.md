@@ -48,7 +48,7 @@ mkdir -p /home/gorbenkoteh/data
 python3 -m venv venv
 source venv/bin/activate
 pip install torch torchvision torchaudio opencv-python pandas numpy scipy scikit-learn tqdm mediapipe
-
+```
 ### Запуск пейплайна
 # Шаг 1: Предобработка видео (извлечение сигналов в .npy)
 python3 preprocess_to_npy.py
