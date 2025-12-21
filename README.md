@@ -50,11 +50,11 @@ source venv/bin/activate
 pip install torch torchvision torchaudio opencv-python pandas numpy scipy scikit-learn tqdm mediapipe
 ```
 ### Запуск пейплайна
-# Шаг 1: Предобработка видео (извлечение сигналов в .npy)
+## Шаг 1: Предобработка видео (извлечение сигналов в .npy)
 python3 preprocess_to_npy.py
 
-# Шаг 2: Разделение данных (сопоставление с db.csv и деление по пациентам)
+## Шаг 2: Разделение данных (сопоставление с db.csv и деление по пациентам)
 python3 split_data.py
 
-# Шаг 3: Обучение модели на GPU (Tesla V100)
+## Шаг 3: Обучение модели на GPU (Tesla V100)
 python3 train_full.py
